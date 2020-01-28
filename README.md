@@ -1,2 +1,6 @@
 # European-Countries
-Analysis of life satisfaction in European countries
+This kernel analyzes the data of life satisfaction in 32 European countries. Firstly, I show what countries have
+the highest life satisfaction. Next, I use a correlation matrix to dive deeper into what factors contribute to a happy lifestyle
+and which countries are the best to live in.
+
+The data comes from Kaggle: https://www.kaggle.com/roshansharma/europe-datasets
